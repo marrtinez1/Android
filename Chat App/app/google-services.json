@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488492109528",
+    "firebase_url": "https://chat-5bc85.firebaseio.com",
+    "project_id": "chat-5bc85",
+    "storage_bucket": "chat-5bc85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488492109528:android:9afe82c08a6bf674",
+        "android_client_info": {
+          "package_name": "com.martin.semestralka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488492109528-lreu0ct9h5oti2tbjrl7vutjj6seifis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZd_Eu8AwZgVIY1gPr5K_LKD9ASpaX40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488492109528-lreu0ct9h5oti2tbjrl7vutjj6seifis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

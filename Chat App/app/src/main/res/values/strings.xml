@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Flash Chat</string>
+    <string name="email">Email</string>
+    <string name="pouzivatel">Meno</string>
+    <string name="heslo">Heslo</string>
+    <string name="heslo_znova">Potvrdenie Hesla</string>
+    <string name="zadajte_spravu">Zadajte správu</string>
+    <string name="registracia">Registrácia</string>
+    <string name="vstupit">Vstúpiť</string>
+    <string name="prihlasit_sa">Prihlásť sa</string>
+    <string name="potvrdenie_registracie">Potvrdiť</string>
+    <string name="odoslat_spravu">Odoslať</string>
+    <string name="error_zly_email">Táto emailová adresa nie je platná</string>
+    <string name="error_zle_heslo">Heslo je príliš krátke or alebo sa heslá nezhodujú</string>
+    <string name="error_nemoze_ostat_prazdne">Toto pole nemôže ostať prázdne</string>
+    <string name="defaultna_sprava">Ahoj.</string>
+
+    <string name="fragment_domov">Toto je domovsky fragment</string>
+    <string name="fragment_info">INFORMÁCIE O APLIKÁCII</string>
+    <string name="vitajte_text">Vitajte</string>
+
+    <string name="fragment_info_header1">Aplikácia Flash Chat slúži na posilanie správ. Správy je možné si posielať medzi dvoma alebo viacerými zariadeniami.</string>
+    <string name="fragment_info_header2">Aplikácia je v slovenskom jazyku a dá sa spustiť len na zariadeniach s OS Android.
+        Na ukladanie správ sa používa externá databáza Firebase.</string>
+    <string name="fragment_pouzitie">AKO SA POUŽÍVA</string>
+    <string name="fragment_info_main1">Aby bolo možné čítať a posielať správy, je nutné sa zaregistrovať. Užívateľ pri registrácií vyplní prezývku, pod ktorou ho budú vidieť ostatní užívatelia,
+    emailovú adresu a heslo. Prezývka a email musia byť unikátne.</string>
+    <string name="fragment_info_main2">Po registrácii sa užívateľ prihlási pomocou emailu a hesla. Ak prihlásenie prebehlo úspešne, dostáva sa do "chat roomu", kde vidí všetky správy od ostatných.</string>
+    <string name="fragment_info_main3">Pre odoslanie novej správy slúži tlačidlo so zelenou šípkou v pravom dolnom rohu. Aplikácia sa vypína systémovým tlačidlom šípka späť.</string>
+</resources>
